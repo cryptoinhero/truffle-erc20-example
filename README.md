@@ -38,7 +38,6 @@ Compiling your contracts...
 > Compiling .\contracts\Migrations.sol
 > Compiling .\contracts\SampleToken.sol
 > Compiling openzeppelin-solidity/contracts/token/ERC20/ERC20.sol
-> Compiling openzeppelin-solidity/contracts/token/ERC20/ERC20Detailed.sol
 > Compiling openzeppelin-solidity\contracts\math\SafeMath.sol
 > Compiling openzeppelin-solidity\contracts\token\ERC20\IERC20.sol
 > Artifacts written to C:\www\truffle-erc20-example\build\contracts
